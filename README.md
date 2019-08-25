@@ -30,12 +30,15 @@ have achieved human-level performance in our classifications
 tasks using a single CNN that leverages modern architecture
 constructs.
 
-#REFERENCES
+                      #REFERENCES#
+
 Franc¸ois Chollet. Xception: Deep learning with depthwise separable
 convolutions. CoRR, abs/1610.02357, 2016.
 
+
 Andrew G. Howard et al. Mobilenets: Efficient convolutional neural
 networks for mobile vision applications. CoRR, abs/1704.04861, 2017.
+
 
 Dario Amodei et al. Deep speech 2: End-to-end speech recognition in
 english and mandarin. CoRR, abs/1512.02595, 2015.
