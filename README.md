@@ -3,7 +3,9 @@
 #To run this we have to download weights.18-4.06 .hdf5 file which is trained url ,either it would show error if we don't download the file#
 
 #then put the file in the folder pretrained_models in the same folder 
+
 1.weights.18-4.06.hdf5 file
+
 2.haarcascade_frontalface_alt.xml file
 
 I propose an implement a general
