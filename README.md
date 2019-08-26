@@ -1,5 +1,7 @@
 # Gender-Recognition-and-Age-Estimator
 
+#To run this we have to download weights.18-4.06 .hdf5 file which is trained pickle dataset#
+
 I propose an implement a general
 convolutional neural network (CNN) building framework for
 designing real-time CNNs. We validate our models by creating
